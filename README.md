@@ -5,7 +5,7 @@ This project aims to detect wildfires in images and video footage using the YOLO
 
 ## Project Structure
 - `notebook/`: Directory containing Jupyter Notebooks for data exploration, model training, and evaluation.
-- `results/`: Directory containing evaluation results, including detection metrics, visualizations, and analysis.
+- `results/` and 'test_Fire/runs/detect/': Directory containing evaluation results, including detection metrics, visualizations, and analysis.
 - `test_Fire/`: Directory containing scripts for running the model on images and video footage using the trained model.
 - `reports/`: Directory containing a report and proposal for the project.
 - 'dataset link': "https://universe.roboflow.com/ipv-investigacao/wildfire-detection-5odum"
